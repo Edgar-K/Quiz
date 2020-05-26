@@ -6,7 +6,7 @@ The project is going to fetch the question from the API using Fetch-Api. In this
 -----
 
 ### Demo Quiz App 
-![DemoPicture](https://github.com/Edgar-K/Quiz/blob/master/public/img/QuizApp-Demo.jpg?raw=true)
+![DemoPicture](https://github.com/Edgar-K/Quiz/blob/master/img/QuizApp-Demo.jpg?raw=true)
 
 ------
 
